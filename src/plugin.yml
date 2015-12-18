@@ -1,0 +1,7 @@
+name: GravityServers
+main: net.GravityNetwork.Servers.Main
+version: 1.0
+commands:
+   server:
+     usage: /<command> [server]
+     description: Join a server
